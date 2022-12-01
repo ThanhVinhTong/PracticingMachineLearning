@@ -6,3 +6,5 @@ Some sources i used to study from are:
   - Machine Learning cơ bản: https://machinelearningcoban.com/
   - Some free videos from youtube
   - Andrew Ng's free lectures from coursera
+
+![alt text](https://github.com/VinhTongThanh/PracticingMachineLearning/blob/main/Certificate.png?raw=true)
